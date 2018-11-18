@@ -1,0 +1,25 @@
+{
+  "name": "prometheus-operator-proxy",
+  "version": "0.0.1",
+  "description": "A proxy that exposes through a single point all servicemonitors of a kubernetes cluster",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yechye/prometheus-operator-proxy.git"
+  },
+  "keywords": [
+    "prometheus",
+    "operator",
+    "proxy",
+    "servicemonitor"
+  ],
+  "author": "Tal Yechye <tal.yehye@gmail.com>",
+  "license": "SEE LICENSE IN Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/yechye/prometheus-operator-proxy/issues"
+  },
+  "homepage": "https://github.com/yechye/prometheus-operator-proxy#readme"
+}
